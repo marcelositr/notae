@@ -1,5 +1,7 @@
 # Notae - CLI de Notas Blindadas (AES-256)
 
+[![Python package](https://github.com/marcelositr/notae/actions/workflows/python-package.yml/badge.svg)](https://github.com/marcelositr/notae/actions/workflows/python-package.yml)
+
 **Notae** é um sistema de diário e registro pessoal offline para Linux, focado em **privacidade extrema** e segurança. Ele transforma seu terminal em um cofre seguro para seus pensamentos, ideias e registros diários.
 
 ---
