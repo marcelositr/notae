@@ -1,0 +1,2 @@
+# Standard library only. 
+# Requires 'gpg' (GnuPG) installed on the system.
