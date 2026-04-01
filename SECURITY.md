@@ -31,7 +31,7 @@ Instead use one of these:
 
 • GitHub private vulnerability reporting (preferred)  
 • Open a Security Advisory  
-• Contact: marcelositr@devnux.com.br (example)
+• Contact: marcelost@riseup.net
 
 ## What to include
 
