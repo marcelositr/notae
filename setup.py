@@ -11,7 +11,7 @@ setup(
         ],
     },
     python_requires='>=3.6',
-    author="Marcelo S.",
+    author="Marcelo Trindade",
     description="An encrypted CLI personal journal for Linux",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
